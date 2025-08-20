@@ -1,0 +1,12 @@
+{
+  "name": "counter-app",
+  "version": "1.0.0",
+  "description": "A simple counter app with TypeScript",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
